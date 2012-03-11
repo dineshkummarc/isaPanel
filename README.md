@@ -73,4 +73,4 @@ isaPanel is only supported on PHP 5.3 and up.
 Documentation
 -------------
 
-You can found documentation at our website or our discussion board.
+The primary source of isaPanel documentation available at wiki.isaPanel.net
